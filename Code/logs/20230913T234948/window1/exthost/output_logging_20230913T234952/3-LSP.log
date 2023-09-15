@@ -1,0 +1,12 @@
+[Error - 11:50:01 PM] Request textDocument/inlayHint failed.
+  Message: File is not being analyzed
+  Code: -32007 
+/home/mystic/Code/Flutter/HimYatri/conductor_app/lib/main.dart
+[Error - 11:50:01 PM] Request textDocument/documentSymbol failed.
+  Message: File is not being analyzed
+  Code: -32007 
+/home/mystic/Code/Flutter/HimYatri/conductor_app/lib/main.dart
+[Error - 11:50:01 PM] Request textDocument/documentColor failed.
+  Message: File is not being analyzed
+  Code: -32007 
+/home/mystic/Code/Flutter/HimYatri/conductor_app/lib/main.dart

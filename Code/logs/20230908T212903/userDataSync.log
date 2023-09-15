@@ -1,0 +1,28 @@
+2023-09-08 21:29:08.232 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-09-08 21:29:08.232 [info] Auto Sync is enabled.
+2023-09-08 21:29:08.232 [info] Auto Sync: Suspended until auth token is available.
+2023-09-08 21:29:10.898 [info] Deleting non existing profile from backup /home/mystic/.config/Code/User/sync/extensions
+2023-09-08 21:29:10.907 [info] Deleting non existing profile from backup /home/mystic/.config/Code/User/sync/globalState
+2023-09-08 21:29:10.909 [info] Deleting non existing profile from backup /home/mystic/.config/Code/User/sync/keybindings
+2023-09-08 21:29:10.911 [info] Deleting non existing profile from backup /home/mystic/.config/Code/User/sync/profiles
+2023-09-08 21:29:10.913 [info] Deleting non existing profile from backup /home/mystic/.config/Code/User/sync/settings
+2023-09-08 21:29:10.915 [info] Deleting non existing profile from backup /home/mystic/.config/Code/User/sync/snippets
+2023-09-08 21:29:10.917 [info] Deleting non existing profile from backup /home/mystic/.config/Code/User/sync/tasks
+2023-09-08 21:29:14.830 [info] Auto Sync: Triggered by Interval
+2023-09-08 21:29:14.831 [info] Sync started.
+2023-09-08 21:29:15.659 [info] Settings: Last sync resource does not exist locally.
+2023-09-08 21:29:16.023 [info] Settings: No changes found during synchronizing settings.
+2023-09-08 21:29:16.031 [info] Keybindings: Last sync resource does not exist locally.
+2023-09-08 21:29:16.340 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-08 21:29:16.345 [info] Snippets: Last sync resource does not exist locally.
+2023-09-08 21:29:16.658 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-08 21:29:16.663 [info] Tasks: Last sync resource does not exist locally.
+2023-09-08 21:29:16.913 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-08 21:29:16.928 [info] GlobalState: Last sync resource does not exist locally.
+2023-09-08 21:29:17.660 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2,workbench.statusbar.hidden,cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount.
+2023-09-08 21:29:18.225 [info] GlobalState: Updated last synchronized ui state
+2023-09-08 21:29:18.238 [info] Extensions: Last sync resource does not exist locally.
+2023-09-08 21:29:18.848 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-08 21:29:18.851 [info] Profiles: Last sync resource does not exist locally.
+2023-09-08 21:29:19.083 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-08 21:29:19.124 [info] Sync done. Took 4265ms

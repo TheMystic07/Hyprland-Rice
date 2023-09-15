@@ -1,0 +1,25 @@
+{
+    "terminal.integrated.defaultProfile.windows": "",
+    "terminal.integrated.fontFamily": "MesloLGSDZ Nerd Font",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.fontFamily": "'MesloLGSDZ Nerd Font, 'Font Awesome', monospace",
+    "editor.fontLigatures": false,
+    "settingsSync.ignoredExtensions": [
+
+    ],
+    "settingsSync.ignoredSettings": [],
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "workbench.colorTheme": "Hyper Dracula"
+}

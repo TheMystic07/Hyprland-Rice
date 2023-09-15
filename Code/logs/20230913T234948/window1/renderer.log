@@ -1,0 +1,7 @@
+2023-09-13 23:50:01.802 [error] File is not being analyzed: Error: File is not being analyzed
+	at handleResponse (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29408:48)
+	at handleMessage (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29188:13)
+	at processMessageQueue (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29205:17)
+	at Immediate.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29177:13)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-09-13 23:50:02.068 [info] [perf] Render performance baseline is 48ms

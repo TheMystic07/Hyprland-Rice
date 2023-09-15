@@ -1,0 +1,35 @@
+2023-09-07 23:22:51.668 [info] Getting Manifest... dracula-theme.theme-dracula
+2023-09-07 23:22:51.683 [info] Installing extension: dracula-theme.theme-dracula
+2023-09-07 23:22:53.311 [warning] Extension signature verification failed with error 'UnknownError': dracula-theme.theme-dracula
+2023-09-07 23:22:53.365 [info] Extracted extension to /home/mystic/.vscode/extensions/.7f2a449b-4d04-444a-a7fb-88c33e46caa9: dracula-theme.theme-dracula
+2023-09-07 23:22:53.755 [info] Renamed to /home/mystic/.vscode/extensions/dracula-theme.theme-dracula-2.24.3
+2023-09-07 23:22:53.758 [info] Extracting extension completed. dracula-theme.theme-dracula
+2023-09-07 23:22:54.210 [info] Extension installed successfully: dracula-theme.theme-dracula
+2023-09-07 23:23:00.076 [info] Getting Manifest... bceskavich.theme-dracula-at-night
+2023-09-07 23:23:00.085 [info] Installing extension: bceskavich.theme-dracula-at-night
+2023-09-07 23:23:01.789 [warning] Extension signature verification failed with error 'UnknownError': bceskavich.theme-dracula-at-night
+2023-09-07 23:23:01.909 [info] Extracted extension to /home/mystic/.vscode/extensions/.46dd52d4-7f0f-492b-8021-db66ac79c802: bceskavich.theme-dracula-at-night
+2023-09-07 23:23:02.041 [info] Renamed to /home/mystic/.vscode/extensions/bceskavich.theme-dracula-at-night-2.7.1
+2023-09-07 23:23:02.047 [info] Extracting extension completed. bceskavich.theme-dracula-at-night
+2023-09-07 23:23:02.203 [info] Extension installed successfully: bceskavich.theme-dracula-at-night
+2023-09-07 23:53:04.631 [info] Getting Manifest... proxzima.sweetdracula
+2023-09-07 23:53:04.646 [info] Installing extension: proxzima.sweetdracula
+2023-09-07 23:53:07.411 [warning] Extension signature verification failed with error 'UnknownError': proxzima.sweetdracula
+2023-09-07 23:53:07.451 [info] Extracted extension to /home/mystic/.vscode/extensions/.133fbce4-be88-4c82-a107-03906ba08277: proxzima.sweetdracula
+2023-09-07 23:53:07.495 [info] Renamed to /home/mystic/.vscode/extensions/proxzima.sweetdracula-1.0.9
+2023-09-07 23:53:07.501 [info] Extracting extension completed. proxzima.sweetdracula
+2023-09-07 23:53:07.579 [info] Extension installed successfully: proxzima.sweetdracula
+2023-09-07 23:54:00.622 [info] Getting Manifest... hilalh.hyper-dracula-vscode-theme
+2023-09-07 23:54:00.635 [info] Installing extension: hilalh.hyper-dracula-vscode-theme
+2023-09-07 23:54:22.663 [warning] Extension signature verification failed with error 'UnknownError': hilalh.hyper-dracula-vscode-theme
+2023-09-07 23:54:22.748 [info] Extracted extension to /home/mystic/.vscode/extensions/.48cb47ef-2014-4847-9975-f8789f1a0608: hilalh.hyper-dracula-vscode-theme
+2023-09-07 23:54:22.786 [info] Renamed to /home/mystic/.vscode/extensions/hilalh.hyper-dracula-vscode-theme-0.1.1
+2023-09-07 23:54:22.793 [info] Extracting extension completed. hilalh.hyper-dracula-vscode-theme
+2023-09-07 23:54:22.857 [info] Extension installed successfully: hilalh.hyper-dracula-vscode-theme
+2023-09-07 23:57:43.514 [info] Getting Manifest... hsnazar.hyper-term-theme
+2023-09-07 23:57:43.528 [info] Installing extension: hsnazar.hyper-term-theme
+2023-09-07 23:57:44.695 [warning] Extension signature verification failed with error 'UnknownError': hsnazar.hyper-term-theme
+2023-09-07 23:57:44.729 [info] Extracted extension to /home/mystic/.vscode/extensions/.92155a8b-cd42-4f24-8b0f-be2a8827ba8c: hsnazar.hyper-term-theme
+2023-09-07 23:57:44.767 [info] Renamed to /home/mystic/.vscode/extensions/hsnazar.hyper-term-theme-0.3.0
+2023-09-07 23:57:44.772 [info] Extracting extension completed. hsnazar.hyper-term-theme
+2023-09-07 23:57:44.878 [info] Extension installed successfully: hsnazar.hyper-term-theme

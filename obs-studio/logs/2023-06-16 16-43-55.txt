@@ -1,0 +1,117 @@
+16:43:55.266: Platform: Wayland
+16:43:55.266: CPU Name: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+16:43:55.266: CPU Speed: 1599.915MHz
+16:43:55.267: Physical Cores: 4, Logical Cores: 8
+16:43:55.267: Physical Memory: 7728MB Total, 1268MB Free
+16:43:55.267: Kernel Version: Linux 6.3.8-arch1-1
+16:43:55.267: Distribution: "Arch Linux" Unknown
+16:43:55.267: Desktop Environment: Hyprland ()
+16:43:55.267: Session Type: wayland
+16:43:55.272: Qt Version: 6.5.1 (runtime), 6.5.1 (compiled)
+16:43:55.272: Portable mode: false
+16:43:55.335: OBS 29.1.1-2 (linux)
+16:43:55.335: ---------------------------------
+16:43:55.335: ---------------------------------
+16:43:55.335: audio settings reset:
+16:43:55.335: 	samples per sec: 48000
+16:43:55.335: 	speakers:        2
+16:43:55.335: 	max buffering:   960 milliseconds
+16:43:55.335: 	buffering type:  dynamically increasing
+16:43:55.339: ---------------------------------
+16:43:55.339: Initializing OpenGL...
+16:43:55.339: Using EGL/Wayland
+16:43:55.429: Initialized EGL 1.5
+16:43:55.464: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 620 (KBL GT2)
+16:43:55.464: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 23.1.2, shading language 4.60
+16:43:55.545: ---------------------------------
+16:43:55.545: video settings reset:
+16:43:55.545: 	base resolution:   1366x768
+16:43:55.545: 	output resolution: 1280x720
+16:43:55.545: 	downscale filter:  Bicubic
+16:43:55.545: 	fps:               30/1
+16:43:55.545: 	format:            NV12
+16:43:55.545: 	YUV mode:          Rec. 709/Partial
+16:43:55.546: NV12 texture support not available
+16:43:55.546: P010 texture support not available
+16:43:55.557: Audio monitoring device:
+16:43:55.557: 	name: Default
+16:43:55.557: 	id: default
+16:43:55.557: ---------------------------------
+16:43:55.573: Failed to load 'en-US' text for module: 'decklink-captions.so'
+16:43:55.587: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+16:43:55.600: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+16:43:55.600: Failed to initialize module 'decklink.so'
+16:43:55.841: [pipewire] Available captures:
+16:43:55.841: [pipewire]     - Desktop capture
+16:43:55.882: v4l2loopback not installed, virtual camera disabled
+16:43:55.916: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+16:43:55.916: FFmpeg VAAPI H264 encoding not supported
+16:43:55.916: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+16:43:55.916: FFmpeg VAAPI HEVC encoding not supported
+16:43:56.040: ---------------------------------
+16:43:56.040:   Loaded Modules:
+16:43:56.040:     text-freetype2.so
+16:43:56.040:     rtmp-services.so
+16:43:56.040:     obs-x264.so
+16:43:56.040:     obs-vst.so
+16:43:56.040:     obs-transitions.so
+16:43:56.040:     obs-outputs.so
+16:43:56.040:     obs-libfdk.so
+16:43:56.040:     obs-filters.so
+16:43:56.040:     obs-ffmpeg.so
+16:43:56.040:     linux-v4l2.so
+16:43:56.040:     linux-pulseaudio.so
+16:43:56.040:     linux-pipewire.so
+16:43:56.040:     linux-jack.so
+16:43:56.040:     linux-capture.so
+16:43:56.040:     linux-alsa.so
+16:43:56.040:     image-source.so
+16:43:56.040:     frontend-tools.so
+16:43:56.040:     decklink-output-ui.so
+16:43:56.040:     decklink-captions.so
+16:43:56.040: ---------------------------------
+16:43:56.040: ==== Startup complete ===============================================
+16:43:56.104: All scene data cleared
+16:43:56.104: ------------------------------------------------
+16:43:56.122: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.71) 15.0.0'
+16:43:56.122: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+16:43:56.123: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+16:43:56.123: [Loaded global audio device]: 'Desktop Audio'
+16:43:56.124: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.71) 15.0.0'
+16:43:56.124: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+16:43:56.124: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo' (default)
+16:43:56.124: [Loaded global audio device]: 'Mic/Aux'
+16:43:56.125: PipeWire initialized
+16:43:56.125: v4l2-input: Start capture from /dev/video0
+16:43:56.127: v4l2-input: Input: 0
+16:43:56.151: v4l2-input: Resolution: 320x240
+16:43:56.151: v4l2-input: Pixelformat: MJPG
+16:43:56.151: v4l2-input: Linesize: 0 Bytes
+16:43:56.151: v4l2-input: Framerate: 30.00 fps
+16:43:56.152: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+16:43:56.161: Switched to scene 'Scene'
+16:43:56.161: ------------------------------------------------
+16:43:56.161: Loaded scenes:
+16:43:56.161: - scene 'Scene':
+16:43:56.163:     - source: 'Screen Capture (PipeWire) 2' (pipewire-desktop-capture-source)
+16:43:56.163:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+16:43:56.163:         - filter: 'Crop/Pad' (crop_filter)
+16:43:56.163:         - filter: 'Scroll' (scroll_filter)
+16:43:56.163:         - filter: 'Chroma Key' (chroma_key_filter_v2)
+16:43:56.163: ------------------------------------------------
+16:43:56.254: [pipewire] Screencast session created
+16:43:56.292: [pipewire] Failed to select source, denied or cancelled by user
+16:43:56.322: v4l2-input: /dev/video0: select timed out
+16:43:56.322: v4l2-input: /dev/video0: failed to log status
+16:43:56.702: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+16:43:56.702: 
+16:44:08.288: User added scene 'Scene 2'
+16:44:08.290: User switched to scene 'Scene 2'
+16:44:09.072: User switched to scene 'Scene'
+16:44:11.177: User switched to scene 'Scene 2'
+16:44:11.180: User Removed scene 'Scene'
+16:44:11.517: v4l2-input: /dev/video0: Stopped capture after 455 frames
+16:44:14.943: PipeWire initialized
+16:44:14.950: User added source 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source) to scene 'Scene 2'
+16:44:14.971: [pipewire] Screencast session created
+16:44:14.987: [pipewire] Failed to select source, denied or cancelled by user

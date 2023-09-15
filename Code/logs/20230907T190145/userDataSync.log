@@ -1,0 +1,4 @@
+2023-09-07 19:01:48.676 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-09-07 19:01:48.676 [info] Auto Sync is enabled.
+2023-09-07 19:01:48.676 [info] Auto Sync: Suspended until auth token is available.
+2023-09-07 19:01:49.852 [info] Deleting non existing profile from backup /home/mystic/.config/Code/User/sync/extensions

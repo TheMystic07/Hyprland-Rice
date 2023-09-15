@@ -1,0 +1,721 @@
+2023-06-16T16:14:38.261Z [Modules] Modules initializing
+2023-06-16T16:14:38.267Z [Modules] Distribution: remote
+2023-06-16T16:14:38.267Z [Modules] Host updates: enabled
+2023-06-16T16:14:38.267Z [Modules] Module updates: enabled
+2023-06-16T16:14:38.268Z [Modules] Module install path: /home/mystic/.config/discord/0.0.27/modules
+2023-06-16T16:14:38.268Z [Modules] Module installed file path: /home/mystic/.config/discord/0.0.27/modules/installed.json
+2023-06-16T16:14:38.269Z [Modules] Module download path: /home/mystic/.config/discord/0.0.27/modules/pending
+2023-06-16T16:14:38.863Z [Modules] Bootstrapping...
+2023-06-16T16:14:38.867Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-06-16T16:14:38.876Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-06-16T16:14:38.880Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-06-16T16:14:38.888Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-06-16T16:14:38.889Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-06-16T16:14:38.893Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-06-16T16:14:38.894Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-06-16T16:14:38.896Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-06-16T16:14:38.897Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-06-16T16:14:38.898Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-06-16T16:14:38.898Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-06-16T16:14:38.898Z [Modules] Checking for host updates.
+2023-06-16T16:14:39.904Z [Modules] Host is up to date.
+2023-06-16T16:14:39.906Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-16T16:14:39.969Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-06-16T16:14:39.969Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-06-16T16:14:39.970Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-06-16T16:14:39.970Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-06-16T16:14:39.970Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-06-16T16:14:39.971Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-06-16T16:14:39.972Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip
+2023-06-16T16:14:41.731Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 1%
+2023-06-16T16:14:41.756Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 2%
+2023-06-16T16:14:41.893Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 3%
+2023-06-16T16:14:41.952Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 4%
+2023-06-16T16:14:41.993Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 5%
+2023-06-16T16:14:42.041Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 6%
+2023-06-16T16:14:42.076Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 7%
+2023-06-16T16:14:42.109Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 8%
+2023-06-16T16:14:42.144Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 9%
+2023-06-16T16:14:42.174Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 10%
+2023-06-16T16:14:42.197Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 11%
+2023-06-16T16:14:42.219Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 12%
+2023-06-16T16:14:42.237Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 13%
+2023-06-16T16:14:42.254Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 14%
+2023-06-16T16:14:42.281Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 15%
+2023-06-16T16:14:42.297Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 17%
+2023-06-16T16:14:42.311Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 18%
+2023-06-16T16:14:42.323Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 19%
+2023-06-16T16:14:42.337Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 20%
+2023-06-16T16:14:42.350Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 21%
+2023-06-16T16:14:42.362Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 22%
+2023-06-16T16:14:42.375Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 23%
+2023-06-16T16:14:42.386Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 24%
+2023-06-16T16:14:42.397Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 25%
+2023-06-16T16:14:42.407Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 26%
+2023-06-16T16:14:42.415Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 27%
+2023-06-16T16:14:42.424Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 28%
+2023-06-16T16:14:42.433Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 29%
+2023-06-16T16:14:42.444Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 30%
+2023-06-16T16:14:42.449Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 31%
+2023-06-16T16:14:42.457Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 33%
+2023-06-16T16:14:42.465Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 34%
+2023-06-16T16:14:42.473Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 35%
+2023-06-16T16:14:42.478Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 36%
+2023-06-16T16:14:42.486Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 37%
+2023-06-16T16:14:42.491Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 38%
+2023-06-16T16:14:42.497Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 39%
+2023-06-16T16:14:42.503Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 40%
+2023-06-16T16:14:42.509Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 41%
+2023-06-16T16:14:42.515Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 42%
+2023-06-16T16:14:42.522Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 43%
+2023-06-16T16:14:42.526Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 44%
+2023-06-16T16:14:42.531Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 45%
+2023-06-16T16:14:42.540Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 46%
+2023-06-16T16:14:42.543Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 48%
+2023-06-16T16:14:42.549Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 49%
+2023-06-16T16:14:42.554Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 50%
+2023-06-16T16:14:42.558Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 51%
+2023-06-16T16:14:42.562Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 52%
+2023-06-16T16:14:42.567Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 53%
+2023-06-16T16:14:42.572Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 54%
+2023-06-16T16:14:42.576Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 55%
+2023-06-16T16:14:42.581Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 56%
+2023-06-16T16:14:42.584Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 57%
+2023-06-16T16:14:42.589Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 58%
+2023-06-16T16:14:42.594Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 59%
+2023-06-16T16:14:42.600Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 60%
+2023-06-16T16:14:42.603Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 61%
+2023-06-16T16:14:42.607Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 62%
+2023-06-16T16:14:42.612Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 63%
+2023-06-16T16:14:42.614Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 65%
+2023-06-16T16:14:42.618Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 66%
+2023-06-16T16:14:42.626Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 67%
+2023-06-16T16:14:42.630Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 68%
+2023-06-16T16:14:42.632Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 69%
+2023-06-16T16:14:42.633Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 70%
+2023-06-16T16:14:42.637Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 71%
+2023-06-16T16:14:42.640Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 72%
+2023-06-16T16:14:42.649Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 73%
+2023-06-16T16:14:42.652Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 74%
+2023-06-16T16:14:42.655Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 76%
+2023-06-16T16:14:42.665Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 77%
+2023-06-16T16:14:42.668Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 78%
+2023-06-16T16:14:42.691Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 80%
+2023-06-16T16:14:42.693Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 81%
+2023-06-16T16:14:42.697Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 83%
+2023-06-16T16:14:42.699Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 84%
+2023-06-16T16:14:42.701Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 85%
+2023-06-16T16:14:42.705Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 86%
+2023-06-16T16:14:42.710Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 88%
+2023-06-16T16:14:42.712Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 89%
+2023-06-16T16:14:42.715Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 90%
+2023-06-16T16:14:42.718Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 91%
+2023-06-16T16:14:42.729Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 92%
+2023-06-16T16:14:42.732Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 93%
+2023-06-16T16:14:42.736Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 94%
+2023-06-16T16:14:42.749Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 96%
+2023-06-16T16:14:42.750Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 97%
+2023-06-16T16:14:42.753Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 98%
+2023-06-16T16:14:42.757Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 99%
+2023-06-16T16:14:42.760Z [Modules] Streaming discord_desktop_core@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 100%
+2023-06-16T16:14:42.765Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-06-16T16:14:42.766Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip
+2023-06-16T16:14:43.484Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 1%
+2023-06-16T16:14:43.488Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 2%
+2023-06-16T16:14:43.492Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 4%
+2023-06-16T16:14:43.494Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 5%
+2023-06-16T16:14:43.497Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 6%
+2023-06-16T16:14:43.500Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 7%
+2023-06-16T16:14:43.503Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 8%
+2023-06-16T16:14:43.505Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 9%
+2023-06-16T16:14:43.680Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 10%
+2023-06-16T16:14:43.681Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 11%
+2023-06-16T16:14:43.691Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 12%
+2023-06-16T16:14:43.693Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 13%
+2023-06-16T16:14:43.699Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 14%
+2023-06-16T16:14:43.703Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 15%
+2023-06-16T16:14:43.704Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 16%
+2023-06-16T16:14:43.715Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 17%
+2023-06-16T16:14:43.719Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 18%
+2023-06-16T16:14:43.722Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 19%
+2023-06-16T16:14:43.730Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 20%
+2023-06-16T16:14:43.732Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 21%
+2023-06-16T16:14:43.737Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 22%
+2023-06-16T16:14:43.740Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 23%
+2023-06-16T16:14:43.745Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 24%
+2023-06-16T16:14:43.749Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 25%
+2023-06-16T16:14:43.753Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 26%
+2023-06-16T16:14:43.786Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 27%
+2023-06-16T16:14:43.794Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 28%
+2023-06-16T16:14:43.796Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 29%
+2023-06-16T16:14:43.798Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 30%
+2023-06-16T16:14:43.801Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 31%
+2023-06-16T16:14:43.811Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 32%
+2023-06-16T16:14:43.827Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 33%
+2023-06-16T16:14:43.836Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 34%
+2023-06-16T16:14:43.840Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 35%
+2023-06-16T16:14:43.842Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 39%
+2023-06-16T16:14:43.843Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 40%
+2023-06-16T16:14:43.844Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 42%
+2023-06-16T16:14:43.847Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 43%
+2023-06-16T16:14:43.856Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 44%
+2023-06-16T16:14:43.859Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 45%
+2023-06-16T16:14:43.863Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 48%
+2023-06-16T16:14:43.865Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 49%
+2023-06-16T16:14:43.869Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 51%
+2023-06-16T16:14:43.873Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 52%
+2023-06-16T16:14:43.876Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 54%
+2023-06-16T16:14:43.880Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 57%
+2023-06-16T16:14:43.883Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 59%
+2023-06-16T16:14:43.885Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 61%
+2023-06-16T16:14:43.888Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 65%
+2023-06-16T16:14:43.896Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 67%
+2023-06-16T16:14:43.898Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 68%
+2023-06-16T16:14:43.900Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 70%
+2023-06-16T16:14:43.905Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 72%
+2023-06-16T16:14:43.907Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 73%
+2023-06-16T16:14:43.909Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 74%
+2023-06-16T16:14:43.916Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 75%
+2023-06-16T16:14:43.920Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 76%
+2023-06-16T16:14:43.922Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 78%
+2023-06-16T16:14:43.926Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 80%
+2023-06-16T16:14:43.930Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 81%
+2023-06-16T16:14:43.933Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 82%
+2023-06-16T16:14:43.938Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 84%
+2023-06-16T16:14:43.940Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 85%
+2023-06-16T16:14:43.944Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 86%
+2023-06-16T16:14:43.946Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 87%
+2023-06-16T16:14:43.948Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 88%
+2023-06-16T16:14:43.950Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 89%
+2023-06-16T16:14:43.991Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 93%
+2023-06-16T16:14:43.992Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 98%
+2023-06-16T16:14:43.993Z [Modules] Streaming discord_erlpack@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 100%
+2023-06-16T16:14:43.995Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-06-16T16:14:43.996Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip
+2023-06-16T16:14:44.732Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 1%
+2023-06-16T16:14:44.914Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 2%
+2023-06-16T16:14:44.951Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 3%
+2023-06-16T16:14:44.967Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 4%
+2023-06-16T16:14:44.983Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 5%
+2023-06-16T16:14:44.989Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 6%
+2023-06-16T16:14:44.993Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 7%
+2023-06-16T16:14:45.002Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 8%
+2023-06-16T16:14:45.016Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 9%
+2023-06-16T16:14:45.029Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 10%
+2023-06-16T16:14:45.049Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 11%
+2023-06-16T16:14:45.057Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 12%
+2023-06-16T16:14:45.068Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 13%
+2023-06-16T16:14:45.084Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 14%
+2023-06-16T16:14:45.095Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 15%
+2023-06-16T16:14:45.101Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 16%
+2023-06-16T16:14:45.118Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 17%
+2023-06-16T16:14:45.120Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 18%
+2023-06-16T16:14:45.121Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 19%
+2023-06-16T16:14:45.146Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 20%
+2023-06-16T16:14:45.161Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 21%
+2023-06-16T16:14:45.180Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 22%
+2023-06-16T16:14:45.716Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 23%
+2023-06-16T16:14:45.717Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 24%
+2023-06-16T16:14:45.960Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 25%
+2023-06-16T16:14:45.967Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 26%
+2023-06-16T16:14:45.970Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 27%
+2023-06-16T16:14:45.972Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 28%
+2023-06-16T16:14:46.003Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 29%
+2023-06-16T16:14:46.012Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 30%
+2023-06-16T16:14:46.016Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 31%
+2023-06-16T16:14:46.019Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 32%
+2023-06-16T16:14:46.020Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 33%
+2023-06-16T16:14:46.022Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 35%
+2023-06-16T16:14:46.024Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 36%
+2023-06-16T16:14:46.026Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 37%
+2023-06-16T16:14:46.028Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 38%
+2023-06-16T16:14:46.029Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 40%
+2023-06-16T16:14:46.031Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 41%
+2023-06-16T16:14:46.032Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 42%
+2023-06-16T16:14:46.033Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 45%
+2023-06-16T16:14:46.034Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 46%
+2023-06-16T16:14:46.049Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 47%
+2023-06-16T16:14:46.072Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 48%
+2023-06-16T16:14:46.082Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 49%
+2023-06-16T16:14:46.844Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 50%
+2023-06-16T16:14:46.845Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 51%
+2023-06-16T16:14:47.098Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 52%
+2023-06-16T16:14:47.102Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 54%
+2023-06-16T16:14:47.104Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 55%
+2023-06-16T16:14:47.105Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 56%
+2023-06-16T16:14:47.107Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 57%
+2023-06-16T16:14:47.125Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 58%
+2023-06-16T16:14:47.154Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 59%
+2023-06-16T16:14:47.189Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 60%
+2023-06-16T16:14:47.404Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 61%
+2023-06-16T16:14:47.413Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 62%
+2023-06-16T16:14:47.419Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 63%
+2023-06-16T16:14:47.425Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 64%
+2023-06-16T16:14:47.440Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 65%
+2023-06-16T16:14:47.444Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 67%
+2023-06-16T16:14:47.447Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 68%
+2023-06-16T16:14:47.449Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 69%
+2023-06-16T16:14:47.451Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 71%
+2023-06-16T16:14:47.453Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 72%
+2023-06-16T16:14:47.455Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 73%
+2023-06-16T16:14:47.457Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 74%
+2023-06-16T16:14:47.458Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 76%
+2023-06-16T16:14:47.460Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 77%
+2023-06-16T16:14:47.461Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 78%
+2023-06-16T16:14:47.463Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 79%
+2023-06-16T16:14:47.681Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 80%
+2023-06-16T16:14:47.859Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 81%
+2023-06-16T16:14:47.882Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 82%
+2023-06-16T16:14:47.901Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 83%
+2023-06-16T16:14:47.927Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 84%
+2023-06-16T16:14:47.941Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 85%
+2023-06-16T16:14:47.962Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 86%
+2023-06-16T16:14:47.990Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 87%
+2023-06-16T16:14:48.021Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 88%
+2023-06-16T16:14:48.032Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 89%
+2023-06-16T16:14:48.057Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 90%
+2023-06-16T16:14:48.063Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 91%
+2023-06-16T16:14:48.077Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 92%
+2023-06-16T16:14:48.085Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 93%
+2023-06-16T16:14:48.132Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 94%
+2023-06-16T16:14:48.143Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 95%
+2023-06-16T16:14:48.156Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 96%
+2023-06-16T16:14:48.170Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 97%
+2023-06-16T16:14:48.357Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 98%
+2023-06-16T16:14:48.364Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 99%
+2023-06-16T16:14:48.697Z [Modules] Streaming discord_spellcheck@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 100%
+2023-06-16T16:14:48.702Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-06-16T16:14:48.702Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip
+2023-06-16T16:14:49.525Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 1%
+2023-06-16T16:14:49.526Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 2%
+2023-06-16T16:14:49.531Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 3%
+2023-06-16T16:14:49.538Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 4%
+2023-06-16T16:14:49.542Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 5%
+2023-06-16T16:14:49.742Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 6%
+2023-06-16T16:14:49.749Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 7%
+2023-06-16T16:14:49.755Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 8%
+2023-06-16T16:14:49.773Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 9%
+2023-06-16T16:14:49.778Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 10%
+2023-06-16T16:14:49.822Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 11%
+2023-06-16T16:14:49.829Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 12%
+2023-06-16T16:14:49.833Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 13%
+2023-06-16T16:14:49.840Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 14%
+2023-06-16T16:14:49.843Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 15%
+2023-06-16T16:14:49.847Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 16%
+2023-06-16T16:14:49.853Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 17%
+2023-06-16T16:14:49.864Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 18%
+2023-06-16T16:14:49.884Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 19%
+2023-06-16T16:14:49.891Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 20%
+2023-06-16T16:14:49.894Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 21%
+2023-06-16T16:14:49.957Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 22%
+2023-06-16T16:14:49.968Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 23%
+2023-06-16T16:14:49.973Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 24%
+2023-06-16T16:14:49.978Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 25%
+2023-06-16T16:14:49.984Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 26%
+2023-06-16T16:14:49.989Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 27%
+2023-06-16T16:14:49.993Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 28%
+2023-06-16T16:14:50.002Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 29%
+2023-06-16T16:14:50.010Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 30%
+2023-06-16T16:14:50.238Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 31%
+2023-06-16T16:14:50.243Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 32%
+2023-06-16T16:14:50.249Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 35%
+2023-06-16T16:14:50.251Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 37%
+2023-06-16T16:14:50.252Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 40%
+2023-06-16T16:14:50.282Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 41%
+2023-06-16T16:14:50.289Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 43%
+2023-06-16T16:14:50.290Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 44%
+2023-06-16T16:14:50.555Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 45%
+2023-06-16T16:14:50.558Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 46%
+2023-06-16T16:14:50.559Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 48%
+2023-06-16T16:14:50.561Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 51%
+2023-06-16T16:14:50.565Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 53%
+2023-06-16T16:14:51.455Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 54%
+2023-06-16T16:14:51.660Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 55%
+2023-06-16T16:14:51.864Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 57%
+2023-06-16T16:14:51.865Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 60%
+2023-06-16T16:14:51.867Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 62%
+2023-06-16T16:14:51.868Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 64%
+2023-06-16T16:14:51.869Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 69%
+2023-06-16T16:14:51.871Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 71%
+2023-06-16T16:14:51.873Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 75%
+2023-06-16T16:14:51.875Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 79%
+2023-06-16T16:14:51.876Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 84%
+2023-06-16T16:14:51.878Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 88%
+2023-06-16T16:14:51.880Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 92%
+2023-06-16T16:14:51.882Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 97%
+2023-06-16T16:14:51.883Z [Modules] Streaming discord_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 100%
+2023-06-16T16:14:51.886Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-06-16T16:14:51.887Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip
+2023-06-16T16:14:52.621Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 1%
+2023-06-16T16:14:52.881Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 2%
+2023-06-16T16:14:53.109Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 3%
+2023-06-16T16:14:53.112Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 4%
+2023-06-16T16:14:53.415Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 5%
+2023-06-16T16:14:53.418Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 6%
+2023-06-16T16:14:53.504Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 7%
+2023-06-16T16:14:53.538Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 8%
+2023-06-16T16:14:53.545Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 9%
+2023-06-16T16:14:53.547Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 10%
+2023-06-16T16:14:53.551Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 11%
+2023-06-16T16:14:53.554Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 12%
+2023-06-16T16:14:53.556Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 13%
+2023-06-16T16:14:53.558Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 14%
+2023-06-16T16:14:53.560Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 15%
+2023-06-16T16:14:53.561Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 16%
+2023-06-16T16:14:53.719Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 17%
+2023-06-16T16:14:53.770Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 18%
+2023-06-16T16:14:54.018Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 19%
+2023-06-16T16:14:54.049Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 20%
+2023-06-16T16:14:54.066Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 21%
+2023-06-16T16:14:54.096Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 22%
+2023-06-16T16:14:54.315Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 23%
+2023-06-16T16:14:54.316Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 24%
+2023-06-16T16:14:54.360Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 25%
+2023-06-16T16:14:54.364Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 26%
+2023-06-16T16:14:54.367Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 27%
+2023-06-16T16:14:54.433Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 28%
+2023-06-16T16:14:54.463Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 29%
+2023-06-16T16:14:54.482Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 30%
+2023-06-16T16:14:54.486Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 31%
+2023-06-16T16:14:54.500Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 32%
+2023-06-16T16:14:54.532Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 33%
+2023-06-16T16:14:54.566Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 34%
+2023-06-16T16:14:54.585Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 35%
+2023-06-16T16:14:55.313Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 36%
+2023-06-16T16:14:55.323Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 37%
+2023-06-16T16:14:55.324Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 38%
+2023-06-16T16:14:55.496Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 39%
+2023-06-16T16:14:55.542Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 40%
+2023-06-16T16:14:55.577Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 41%
+2023-06-16T16:14:55.581Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 42%
+2023-06-16T16:14:55.608Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 43%
+2023-06-16T16:14:55.614Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 44%
+2023-06-16T16:14:55.618Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 45%
+2023-06-16T16:14:55.620Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 46%
+2023-06-16T16:14:55.623Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 47%
+2023-06-16T16:14:55.625Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 48%
+2023-06-16T16:14:56.307Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 49%
+2023-06-16T16:14:56.315Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 50%
+2023-06-16T16:14:56.317Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 51%
+2023-06-16T16:14:56.321Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 52%
+2023-06-16T16:14:56.323Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 53%
+2023-06-16T16:14:56.325Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 54%
+2023-06-16T16:14:56.357Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 55%
+2023-06-16T16:14:56.382Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 56%
+2023-06-16T16:14:56.384Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 57%
+2023-06-16T16:14:56.389Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 58%
+2023-06-16T16:14:56.405Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 59%
+2023-06-16T16:14:56.412Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 60%
+2023-06-16T16:14:56.417Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 61%
+2023-06-16T16:14:56.492Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 62%
+2023-06-16T16:14:56.540Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 63%
+2023-06-16T16:14:56.816Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 64%
+2023-06-16T16:14:57.041Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 65%
+2023-06-16T16:14:57.073Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 66%
+2023-06-16T16:14:57.077Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 67%
+2023-06-16T16:14:57.079Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 68%
+2023-06-16T16:14:57.083Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 69%
+2023-06-16T16:14:57.085Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 70%
+2023-06-16T16:14:57.087Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 71%
+2023-06-16T16:14:57.800Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 72%
+2023-06-16T16:14:57.807Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 73%
+2023-06-16T16:14:57.812Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 74%
+2023-06-16T16:14:57.867Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 75%
+2023-06-16T16:14:57.879Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 76%
+2023-06-16T16:14:57.886Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 77%
+2023-06-16T16:14:57.891Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 78%
+2023-06-16T16:14:57.893Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 79%
+2023-06-16T16:14:57.898Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 80%
+2023-06-16T16:14:57.900Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 81%
+2023-06-16T16:14:57.904Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 82%
+2023-06-16T16:14:57.907Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 83%
+2023-06-16T16:14:57.910Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 84%
+2023-06-16T16:14:57.912Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 85%
+2023-06-16T16:14:58.072Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 86%
+2023-06-16T16:14:58.152Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 87%
+2023-06-16T16:14:58.411Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 88%
+2023-06-16T16:14:58.445Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 89%
+2023-06-16T16:14:58.874Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 90%
+2023-06-16T16:14:58.877Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 91%
+2023-06-16T16:14:58.882Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 92%
+2023-06-16T16:14:58.886Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 93%
+2023-06-16T16:14:58.888Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 94%
+2023-06-16T16:14:58.890Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 95%
+2023-06-16T16:14:58.892Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 96%
+2023-06-16T16:14:59.136Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 97%
+2023-06-16T16:14:59.139Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 98%
+2023-06-16T16:14:59.140Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 99%
+2023-06-16T16:14:59.143Z [Modules] Streaming discord_voice@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 100%
+2023-06-16T16:14:59.147Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-06-16T16:14:59.148Z [Modules] Installing updates...
+2023-06-16T16:14:59.149Z [Modules] Installing discord_desktop_core@1 from /home/mystic/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip
+2023-06-16T16:14:59.245Z [Modules] Installing discord_erlpack@1 from /home/mystic/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip
+2023-06-16T16:14:59.324Z [Modules] Installing discord_spellcheck@1 from /home/mystic/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip
+2023-06-16T16:15:00.123Z [Modules] Installing discord_utils@1 from /home/mystic/.config/discord/0.0.27/modules/pending/discord_utils-1.zip
+2023-06-16T16:15:00.569Z [Modules] Installing discord_voice@1 from /home/mystic/.config/discord/0.0.27/modules/pending/discord_voice-1.zip
+2023-06-16T16:15:01.410Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-06-16T16:15:01.411Z [Modules] Checking for host updates.
+2023-06-16T16:15:01.908Z [Modules] Host is up to date.
+2023-06-16T16:15:01.908Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-16T16:15:02.316Z [Modules] No module updates available.
+2023-06-16T16:15:04.934Z [Modules] Starting to install discord_krisp...
+2023-06-16T16:15:04.934Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-06-16T16:15:04.935Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip
+2023-06-16T16:15:04.956Z [Modules] Starting to install discord_game_utils...
+2023-06-16T16:15:05.619Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 1%
+2023-06-16T16:15:06.145Z [Modules] Checking for host updates.
+2023-06-16T16:15:06.351Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 2%
+2023-06-16T16:15:06.361Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 3%
+2023-06-16T16:15:06.362Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 4%
+2023-06-16T16:15:06.406Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 5%
+2023-06-16T16:15:06.407Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 6%
+2023-06-16T16:15:06.408Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 7%
+2023-06-16T16:15:06.409Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 8%
+2023-06-16T16:15:06.454Z [Modules] Starting to install discord_rpc...
+2023-06-16T16:15:06.598Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 9%
+2023-06-16T16:15:06.601Z [Modules] Host is up to date.
+2023-06-16T16:15:06.601Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-16T16:15:06.603Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 15%
+2023-06-16T16:15:06.607Z [Modules] No module updates available.
+2023-06-16T16:15:06.632Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 16%
+2023-06-16T16:15:07.087Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 17%
+2023-06-16T16:15:07.094Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 18%
+2023-06-16T16:15:07.097Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 19%
+2023-06-16T16:15:07.098Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 20%
+2023-06-16T16:15:07.100Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 21%
+2023-06-16T16:15:07.121Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 22%
+2023-06-16T16:15:07.128Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 23%
+2023-06-16T16:15:07.156Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 24%
+2023-06-16T16:15:07.192Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 25%
+2023-06-16T16:15:08.018Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 26%
+2023-06-16T16:15:08.196Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 27%
+2023-06-16T16:15:08.204Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 28%
+2023-06-16T16:15:08.208Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 29%
+2023-06-16T16:15:08.211Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 30%
+2023-06-16T16:15:08.214Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 31%
+2023-06-16T16:15:08.218Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 32%
+2023-06-16T16:15:08.221Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 33%
+2023-06-16T16:15:08.224Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 34%
+2023-06-16T16:15:08.227Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 35%
+2023-06-16T16:15:08.228Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 36%
+2023-06-16T16:15:08.229Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 37%
+2023-06-16T16:15:08.230Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 38%
+2023-06-16T16:15:08.231Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 39%
+2023-06-16T16:15:08.480Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 40%
+2023-06-16T16:15:08.745Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 41%
+2023-06-16T16:15:08.989Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 42%
+2023-06-16T16:15:08.991Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 43%
+2023-06-16T16:15:08.994Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 44%
+2023-06-16T16:15:08.998Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 45%
+2023-06-16T16:15:09.001Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 46%
+2023-06-16T16:15:09.004Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 47%
+2023-06-16T16:15:09.155Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 48%
+2023-06-16T16:15:09.186Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 49%
+2023-06-16T16:15:09.231Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 50%
+2023-06-16T16:15:09.233Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 51%
+2023-06-16T16:15:09.696Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 52%
+2023-06-16T16:15:09.758Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 53%
+2023-06-16T16:15:09.766Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 54%
+2023-06-16T16:15:09.767Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 55%
+2023-06-16T16:15:09.768Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 56%
+2023-06-16T16:15:09.768Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 57%
+2023-06-16T16:15:09.769Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 58%
+2023-06-16T16:15:09.837Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 59%
+2023-06-16T16:15:09.840Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 60%
+2023-06-16T16:15:09.844Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 61%
+2023-06-16T16:15:09.846Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 62%
+2023-06-16T16:15:09.848Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 63%
+2023-06-16T16:15:09.980Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 64%
+2023-06-16T16:15:10.027Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 65%
+2023-06-16T16:15:10.468Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 66%
+2023-06-16T16:15:10.470Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 67%
+2023-06-16T16:15:10.721Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 68%
+2023-06-16T16:15:10.724Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 69%
+2023-06-16T16:15:10.749Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 70%
+2023-06-16T16:15:10.752Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 72%
+2023-06-16T16:15:11.405Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 73%
+2023-06-16T16:15:11.418Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 74%
+2023-06-16T16:15:11.482Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 75%
+2023-06-16T16:15:11.486Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 76%
+2023-06-16T16:15:11.489Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 77%
+2023-06-16T16:15:11.493Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 78%
+2023-06-16T16:15:11.497Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 79%
+2023-06-16T16:15:11.501Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 80%
+2023-06-16T16:15:11.502Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 81%
+2023-06-16T16:15:11.504Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 82%
+2023-06-16T16:15:11.520Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 83%
+2023-06-16T16:15:11.550Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 84%
+2023-06-16T16:15:11.560Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 85%
+2023-06-16T16:15:11.718Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 86%
+2023-06-16T16:15:11.955Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 87%
+2023-06-16T16:15:12.024Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 88%
+2023-06-16T16:15:12.106Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 89%
+2023-06-16T16:15:12.158Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 90%
+2023-06-16T16:15:12.196Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 91%
+2023-06-16T16:15:12.708Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 92%
+2023-06-16T16:15:12.722Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 93%
+2023-06-16T16:15:12.728Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 94%
+2023-06-16T16:15:12.731Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 95%
+2023-06-16T16:15:12.735Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 96%
+2023-06-16T16:15:12.738Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 97%
+2023-06-16T16:15:12.739Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 98%
+2023-06-16T16:15:12.741Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 99%
+2023-06-16T16:15:12.742Z [Modules] Streaming discord_krisp@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 100%
+2023-06-16T16:15:12.745Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-06-16T16:15:12.745Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip
+2023-06-16T16:15:12.746Z [Modules] Installing discord_krisp@1 from /home/mystic/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip
+2023-06-16T16:15:13.264Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-06-16T16:15:13.579Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 1%
+2023-06-16T16:15:13.588Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 2%
+2023-06-16T16:15:13.590Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 3%
+2023-06-16T16:15:13.595Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 4%
+2023-06-16T16:15:13.629Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 5%
+2023-06-16T16:15:13.636Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 6%
+2023-06-16T16:15:13.810Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 7%
+2023-06-16T16:15:13.838Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 8%
+2023-06-16T16:15:13.843Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 9%
+2023-06-16T16:15:13.859Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 10%
+2023-06-16T16:15:13.863Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 11%
+2023-06-16T16:15:13.870Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 12%
+2023-06-16T16:15:13.872Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 13%
+2023-06-16T16:15:13.879Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 14%
+2023-06-16T16:15:13.887Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 15%
+2023-06-16T16:15:13.891Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 16%
+2023-06-16T16:15:13.895Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 17%
+2023-06-16T16:15:13.899Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 18%
+2023-06-16T16:15:13.904Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 19%
+2023-06-16T16:15:13.919Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 20%
+2023-06-16T16:15:13.973Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 21%
+2023-06-16T16:15:14.025Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 22%
+2023-06-16T16:15:14.031Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 23%
+2023-06-16T16:15:14.036Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 24%
+2023-06-16T16:15:14.045Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 25%
+2023-06-16T16:15:14.050Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 26%
+2023-06-16T16:15:14.051Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 27%
+2023-06-16T16:15:14.057Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 28%
+2023-06-16T16:15:14.067Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 29%
+2023-06-16T16:15:14.074Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 30%
+2023-06-16T16:15:14.076Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 31%
+2023-06-16T16:15:14.087Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 32%
+2023-06-16T16:15:14.090Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 33%
+2023-06-16T16:15:14.107Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 34%
+2023-06-16T16:15:14.110Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 35%
+2023-06-16T16:15:14.114Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 36%
+2023-06-16T16:15:14.117Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 37%
+2023-06-16T16:15:14.125Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 38%
+2023-06-16T16:15:14.608Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 39%
+2023-06-16T16:15:14.611Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 40%
+2023-06-16T16:15:14.624Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 41%
+2023-06-16T16:15:14.627Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 42%
+2023-06-16T16:15:14.629Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 45%
+2023-06-16T16:15:14.630Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 48%
+2023-06-16T16:15:14.632Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 51%
+2023-06-16T16:15:14.633Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 54%
+2023-06-16T16:15:14.635Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 59%
+2023-06-16T16:15:14.636Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 64%
+2023-06-16T16:15:14.637Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 67%
+2023-06-16T16:15:14.638Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 70%
+2023-06-16T16:15:14.639Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 75%
+2023-06-16T16:15:14.640Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 78%
+2023-06-16T16:15:14.641Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 80%
+2023-06-16T16:15:14.643Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 84%
+2023-06-16T16:15:14.644Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 90%
+2023-06-16T16:15:14.646Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 95%
+2023-06-16T16:15:14.647Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 96%
+2023-06-16T16:15:15.317Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 97%
+2023-06-16T16:15:15.728Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 99%
+2023-06-16T16:15:15.889Z [Modules] Streaming discord_game_utils@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 100%
+2023-06-16T16:15:15.893Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-06-16T16:15:15.893Z [Modules] Streaming discord_rpc@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip
+2023-06-16T16:15:15.894Z [Modules] Installing discord_game_utils@1 from /home/mystic/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip
+2023-06-16T16:15:16.015Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-06-16T16:15:16.756Z [Modules] Streaming discord_rpc@1 to /home/mystic/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip: 100%
+2023-06-16T16:15:16.759Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-06-16T16:15:16.760Z [Modules] Installing discord_rpc@1 from /home/mystic/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip
+2023-06-16T16:15:16.804Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-06-23T07:08:02.566Z [Modules] Modules initializing
+2023-06-23T07:08:02.571Z [Modules] Distribution: remote
+2023-06-23T07:08:02.571Z [Modules] Host updates: enabled
+2023-06-23T07:08:02.571Z [Modules] Module updates: enabled
+2023-06-23T07:08:02.590Z [Modules] Module install path: /home/mystic/.config/discord/0.0.27/modules
+2023-06-23T07:08:02.590Z [Modules] Module installed file path: /home/mystic/.config/discord/0.0.27/modules/installed.json
+2023-06-23T07:08:02.591Z [Modules] Module download path: /home/mystic/.config/discord/0.0.27/modules/pending
+2023-06-23T07:08:03.131Z [Modules] No updates to install
+2023-06-23T07:08:03.133Z [Modules] Checking for host updates.
+2023-06-23T07:08:03.395Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-06-23T07:08:13.396Z [Modules] Checking for host updates.
+2023-06-23T07:08:13.404Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-06-23T07:11:03.311Z [Modules] Modules initializing
+2023-06-23T07:11:03.316Z [Modules] Distribution: remote
+2023-06-23T07:11:03.316Z [Modules] Host updates: enabled
+2023-06-23T07:11:03.316Z [Modules] Module updates: enabled
+2023-06-23T07:11:03.323Z [Modules] Module install path: /home/mystic/.config/discord/0.0.27/modules
+2023-06-23T07:11:03.323Z [Modules] Module installed file path: /home/mystic/.config/discord/0.0.27/modules/installed.json
+2023-06-23T07:11:03.324Z [Modules] Module download path: /home/mystic/.config/discord/0.0.27/modules/pending
+2023-06-23T07:11:04.024Z [Modules] No updates to install
+2023-06-23T07:11:04.026Z [Modules] Checking for host updates.
+2023-06-23T07:11:04.841Z [Modules] Host is up to date.
+2023-06-23T07:11:04.842Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-23T07:11:04.880Z [Modules] No module updates available.
+2023-06-23T07:11:19.476Z [Modules] Checking for host updates.
+2023-06-23T07:11:19.915Z [Modules] Host is up to date.
+2023-06-23T07:11:19.915Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-23T07:11:19.919Z [Modules] No module updates available.
+2023-06-23T08:11:22.644Z [Modules] Checking for host updates.
+2023-06-23T08:11:23.172Z [Modules] Host is up to date.
+2023-06-23T08:11:23.172Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-23T08:11:23.208Z [Modules] No module updates available.
+2023-06-23T09:11:29.141Z [Modules] Checking for host updates.
+2023-06-23T09:11:29.743Z [Modules] Host is up to date.
+2023-06-23T09:11:29.744Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-23T09:11:29.793Z [Modules] No module updates available.
+2023-07-09T19:59:14.455Z [Modules] Modules initializing
+2023-07-09T19:59:14.459Z [Modules] Distribution: remote
+2023-07-09T19:59:14.459Z [Modules] Host updates: enabled
+2023-07-09T19:59:14.460Z [Modules] Module updates: enabled
+2023-07-09T19:59:14.478Z [Modules] Module install path: /home/mystic/.config/discord/0.0.27/modules
+2023-07-09T19:59:14.479Z [Modules] Module installed file path: /home/mystic/.config/discord/0.0.27/modules/installed.json
+2023-07-09T19:59:14.479Z [Modules] Module download path: /home/mystic/.config/discord/0.0.27/modules/pending
+2023-07-09T19:59:15.083Z [Modules] No updates to install
+2023-07-09T19:59:15.085Z [Modules] Checking for host updates.
+2023-07-09T19:59:16.306Z [Modules] Host is up to date.
+2023-07-09T19:59:16.307Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-09T19:59:16.554Z [Modules] No module updates available.
+2023-07-09T19:59:23.989Z [Modules] Checking for host updates.
+2023-07-09T19:59:24.552Z [Modules] Host is up to date.
+2023-07-09T19:59:24.552Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-09T19:59:24.555Z [Modules] No module updates available.
+2023-07-09T20:59:23.994Z [Modules] Checking for host updates.
+2023-07-09T20:59:29.537Z [Modules] Host is up to date.
+2023-07-09T20:59:29.538Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-09T20:59:29.633Z [Modules] No module updates available.
+2023-07-18T07:04:58.129Z [Modules] Modules initializing
+2023-07-18T07:04:58.133Z [Modules] Distribution: remote
+2023-07-18T07:04:58.134Z [Modules] Host updates: enabled
+2023-07-18T07:04:58.134Z [Modules] Module updates: enabled
+2023-07-18T07:04:58.142Z [Modules] Module install path: /home/mystic/.config/discord/0.0.27/modules
+2023-07-18T07:04:58.142Z [Modules] Module installed file path: /home/mystic/.config/discord/0.0.27/modules/installed.json
+2023-07-18T07:04:58.143Z [Modules] Module download path: /home/mystic/.config/discord/0.0.27/modules/pending
+2023-07-18T07:04:58.954Z [Modules] No updates to install
+2023-07-18T07:04:58.955Z [Modules] Checking for host updates.
+2023-07-18T07:04:59.832Z [Modules] Host update is available. Manual update required!
+2023-07-18T07:13:40.651Z [Modules] Modules initializing
+2023-07-18T07:13:40.652Z [Modules] Distribution: remote
+2023-07-18T07:13:40.653Z [Modules] Host updates: enabled
+2023-07-18T07:13:40.653Z [Modules] Module updates: enabled
+2023-07-18T07:13:40.654Z [Modules] Module install path: /home/mystic/.config/discord/0.0.27/modules
+2023-07-18T07:13:40.654Z [Modules] Module installed file path: /home/mystic/.config/discord/0.0.27/modules/installed.json
+2023-07-18T07:13:40.655Z [Modules] Module download path: /home/mystic/.config/discord/0.0.27/modules/pending
+2023-07-18T07:13:41.044Z [Modules] No updates to install
+2023-07-18T07:13:41.045Z [Modules] Checking for host updates.
+2023-07-18T07:13:41.789Z [Modules] Host update is available. Manual update required!
+2023-07-18T07:14:21.767Z [Modules] Modules initializing
+2023-07-18T07:14:21.768Z [Modules] Distribution: remote
+2023-07-18T07:14:21.768Z [Modules] Host updates: enabled
+2023-07-18T07:14:21.768Z [Modules] Module updates: enabled
+2023-07-18T07:14:21.769Z [Modules] Module install path: /home/mystic/.config/discord/0.0.27/modules
+2023-07-18T07:14:21.770Z [Modules] Module installed file path: /home/mystic/.config/discord/0.0.27/modules/installed.json
+2023-07-18T07:14:21.770Z [Modules] Module download path: /home/mystic/.config/discord/0.0.27/modules/pending
+2023-07-18T07:14:22.125Z [Modules] No updates to install
+2023-07-18T07:14:22.126Z [Modules] Checking for host updates.
+2023-07-18T07:14:22.750Z [Modules] Host update is available. Manual update required!

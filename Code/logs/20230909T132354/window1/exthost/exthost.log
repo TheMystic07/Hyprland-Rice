@@ -1,0 +1,209 @@
+2023-09-09 13:24:00.622 [info] Extension host with pid 1819 started
+2023-09-09 13:24:00.659 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-09 13:24:00.761 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-09-09 13:24:00.816 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-09 13:24:00.829 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-09 13:24:00.884 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-09 13:24:00.945 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-09-09 13:24:01.113 [info] Eager extensions activated
+2023-09-09 13:24:01.237 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-09 13:24:01.272 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-09 13:24:01.321 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-09-09 13:24:02.903 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-09 13:24:02.990 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-09 13:24:44.167 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-09 13:24:44.192 [info] Extension host with pid 1819 exiting with code 0
+2023-09-09 13:24:45.292 [info] Extension host with pid 2098 started
+2023-09-09 13:24:45.292 [info] Skipping acquiring lock for /home/mystic/.config/Code/User/workspaceStorage/4aeea74f0e934e5afecb532e7b897c89.
+2023-09-09 13:24:45.417 [info] ExtensionService#_doActivateExtension Dart-Code.dart-code, startup: false, activationEvent: 'onLanguage:dart'
+2023-09-09 13:24:45.788 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-09 13:24:45.963 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-09-09 13:24:45.987 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-09-09 13:24:46.381 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-09 13:24:46.417 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-09 13:24:46.450 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-09 13:24:47.440 [info] Eager extensions activated
+2023-09-09 13:24:47.550 [info] ExtensionService#_doActivateExtension Dart-Code.flutter, startup: false, activationEvent: 'api', root cause: Dart-Code.dart-code
+2023-09-09 13:24:47.626 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-09 13:24:47.629 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-09 13:24:47.639 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-09-09 13:24:54.741 [error] [Dart-Code.dart-code] provider FAILED
+2023-09-09 13:24:54.742 [error] Error: File is not being analyzed
+	at handleResponse (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29408:48)
+	at handleMessage (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29188:13)
+	at processMessageQueue (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29205:17)
+	at Immediate.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29177:13)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-09-09 13:24:54.751 [error] [Dart-Code.dart-code] provider FAILED
+2023-09-09 13:24:54.751 [error] Error: File is not being analyzed
+	at handleResponse (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29408:48)
+	at handleMessage (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29188:13)
+	at processMessageQueue (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29205:17)
+	at Immediate.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29177:13)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-09-09 13:24:54.758 [error] [Dart-Code.dart-code] provider FAILED
+2023-09-09 13:24:54.758 [error] Error: File is not being analyzed
+	at handleResponse (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29408:48)
+	at handleMessage (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29188:13)
+	at processMessageQueue (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29205:17)
+	at Immediate.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29177:13)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-09-09 13:45:43.273 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2023-09-09 23:05:43.703 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-09 23:05:43.780 [warning] TextEditor is closed/disposed
+2023-09-09 23:05:43.792 [warning] Canceled
+2023-09-09 23:05:43.795 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:42413)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:11236)
+	at U.<computed>.q.charCodeAt.U.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:8675)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63549)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at P.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62280)
+	at e.$vL.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:64085)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63073)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:20971)
+	at setCommandVisiblity (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13369:22)
+	at Object.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13351:9)
+	at Generator.next (<anonymous>)
+	at /home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:12510:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.1892.__awaiter (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:12506:12)
+	at Object.deactivate (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13350:12)
+	at i.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:10175)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8332
+	at Array.map (<anonymous>)
+	at i.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8319)
+	at i.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8591)
+	at u.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1532)
+	at E (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:32236)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28665)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-09 23:05:43.795 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:42413)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:11236)
+	at U.<computed>.q.charCodeAt.U.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:8675)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63549)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at P.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62280)
+	at e.$vL.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:64085)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63073)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:20971)
+	at setCommandVisiblity (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13370:22)
+	at Object.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13351:9)
+	at Generator.next (<anonymous>)
+	at /home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:12510:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.1892.__awaiter (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:12506:12)
+	at Object.deactivate (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13350:12)
+	at i.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:10175)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8332
+	at Array.map (<anonymous>)
+	at i.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8319)
+	at i.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8591)
+	at u.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1532)
+	at E (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:32236)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28665)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-09 23:05:43.796 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:42413)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:11236)
+	at U.<computed>.q.charCodeAt.U.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:8675)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63549)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at P.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62280)
+	at e.$vL.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:64085)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63073)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:20971)
+	at setCommandVisiblity (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13371:22)
+	at Object.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13351:9)
+	at Generator.next (<anonymous>)
+	at /home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:12510:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.1892.__awaiter (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:12506:12)
+	at Object.deactivate (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13350:12)
+	at i.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:10175)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8332
+	at Array.map (<anonymous>)
+	at i.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8319)
+	at i.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8591)
+	at u.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1532)
+	at E (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:32236)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28665)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-09 23:05:43.796 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:42413)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:11236)
+	at U.<computed>.q.charCodeAt.U.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:8675)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63549)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at P.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62280)
+	at e.$vL.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:64085)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63073)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:20971)
+	at setCommandVisiblity (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13372:22)
+	at Object.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13351:9)
+	at Generator.next (<anonymous>)
+	at /home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:12510:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.1892.__awaiter (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:12506:12)
+	at Object.deactivate (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13350:12)
+	at i.Z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:10175)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8332
+	at Array.map (<anonymous>)
+	at i.S (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8319)
+	at i.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:8591)
+	at u.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1532)
+	at E (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:32236)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:28665)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-09 23:05:43.841 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:42413)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:11236)
+	at U.<computed>.q.charCodeAt.U.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:8675)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63549)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at P.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62280)
+	at e.$vL.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:64085)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63073)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:20971)
+	at Object.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13358:26)
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:12507:58) setContext undefined
+2023-09-09 23:05:43.841 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:42413)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:11236)
+	at U.<computed>.q.charCodeAt.U.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:8675)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63549)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at P.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62280)
+	at e.$vL.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:64085)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63073)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:20971)
+	at Object.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13360:30)
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:12507:58) setContext undefined
+2023-09-09 23:05:43.841 [error] Canceled: Canceled
+	at new h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:42413)
+	at t.O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:11236)
+	at U.<computed>.q.charCodeAt.U.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:8675)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63549)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at P.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62280)
+	at e.$vL.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:64085)
+	at e.$vL.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:63073)
+	at e.$vL.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:62973)
+	at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:20971)
+	at Object.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:13361:30)
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:12507:58) setContext undefined
+2023-09-09 23:05:43.842 [info] Extension host with pid 2098 exiting with code 0

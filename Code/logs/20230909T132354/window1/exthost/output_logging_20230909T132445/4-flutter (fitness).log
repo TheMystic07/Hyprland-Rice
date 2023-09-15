@@ -1,0 +1,70 @@
+[fitness] flutter pub get --no-example
+Error detected in pubspec.yaml:
+Invalid value bold ((String)) for font -> style.
+Invalid value Medium ((String)) for font -> style.
+Please correct the pubspec.yaml file at /home/mystic/Code/Flutter/fitness/pubspec.yaml
+exit code 1
+
+--
+
+[fitness] flutter pub get --no-example
+Resolving dependencies...
+  collection 1.17.2 (1.18.0 available)
+  material_color_utilities 0.5.0 (0.8.0 available)
+  meta 1.9.1 (1.10.0 available)
+  stack_trace 1.11.0 (1.11.1 available)
+  stream_channel 2.1.1 (2.1.2 available)
+  test_api 0.6.0 (0.6.1 available)
+Got dependencies!
+exit code 0
+
+--
+
+[fitness] flutter pub get --no-example
+Resolving dependencies...
++ args 2.4.2
+  collection 1.17.2 (1.18.0 available)
++ flutter_svg 2.0.7
+  material_color_utilities 0.5.0 (0.8.0 available)
+  meta 1.9.1 (1.10.0 available)
++ path_parsing 1.0.1
++ petitparser 5.4.0 (6.0.1 available)
+  stack_trace 1.11.0 (1.11.1 available)
+  stream_channel 2.1.1 (2.1.2 available)
+  test_api 0.6.0 (0.6.1 available)
++ vector_graphics 1.1.7
++ vector_graphics_codec 1.1.7
++ vector_graphics_compiler 1.1.7
++ xml 6.3.0 (6.4.2 available)
+Changed 8 dependencies!
+exit code 0
+
+--
+
+[fitness] flutter pub get --no-example
+Resolving dependencies...
+  collection 1.17.2 (1.18.0 available)
+  material_color_utilities 0.5.0 (0.8.0 available)
+  meta 1.9.1 (1.10.0 available)
+  petitparser 5.4.0 (6.0.1 available)
+  stack_trace 1.11.0 (1.11.1 available)
+  stream_channel 2.1.1 (2.1.2 available)
+  test_api 0.6.0 (0.6.1 available)
+  xml 6.3.0 (6.4.2 available)
+Got dependencies!
+exit code 0
+
+--
+
+[fitness] flutter pub get --no-example
+Resolving dependencies...
+  collection 1.17.2 (1.18.0 available)
+  material_color_utilities 0.5.0 (0.8.0 available)
+  meta 1.9.1 (1.10.0 available)
+  petitparser 5.4.0 (6.0.1 available)
+  stack_trace 1.11.0 (1.11.1 available)
+  stream_channel 2.1.1 (2.1.2 available)
+  test_api 0.6.0 (0.6.1 available)
+  xml 6.3.0 (6.4.2 available)
+Got dependencies!
+exit code 0

@@ -1,0 +1,31 @@
+file:///home/mystic/scripts/greetings.sh {"mtime":1686914672352,"ctime":1686914672352,"size":1400,"etag":"3amsms2dc1e5","orphaned":false,"typeId":""}
+#!/bin/bash
+
+#echo "
+#  _,  _,  _, __,   _, _  _, __, _, _ _ _, _  _,
+# / _ / \ / \ | \   |\/| / \ |_) |\ | | |\ | / _
+# \ / \ / \ / |_/   |  | \ / | \ | \| | | \| \ /
+#  ~   ~   ~  ~     ~  ~  ~  ~ ~ ~  ~ ~ ~  ~  ~ 
+#                                               
+#"
+
+
+h=$(date +"%H")
+if [ $h -gt 6 -a $h -le 12 ]
+then
+gt="good morning"
+elif [ $h -gt 12 -a $h -le 16 ]
+then
+gt="good afternoon"
+elif [ $h -gt 16 -a $h -le 20 ]
+then
+gt="good evening"
+else
+gt="good night"
+fi
+
+
+
+li=("...:: welcome back sir ::..." "..:: hi Mystic , welcome again ::.." "..:: $gt Mystic , what you got this time for me! ::.." "...:: here you go ::..." "Hello Mystic..::..How are you?" "..:: on your demand boss ::.." "..:: ready to recieve commands sir ::.." "...:: hello Mystic , $gt ::..." "..:: $gt sir ::.." "..:: ready for action...always ::.." "..:: Hungry for commands boss ::.." "..:: $gt Mystic , what's next?" "..:: am i irritating you? ::.." "..:: nice to see you again Mystic ::..." "..:: $gt Mystic , how are you? ::.." "..:: welcome again sir ::.." "..:: who's there!! , is this you Mystic?" "..:: what do you want!! ::.." "..:: just type it!! ::.." "..:: give me a command already! ::.." "..:: hello mr. Mystic , $gt to you ::.." "..:: what do you want this time huh? ::.." "..:: at your service sir ::.." "..:: $gt sir , where have you been this whole time? ::.." "..:: put it on fire! ::..")
+
+echo "${li[$((RANDOM%${#li[@]}))]}"

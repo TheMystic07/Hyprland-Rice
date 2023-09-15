@@ -1,0 +1,10 @@
+2023-09-14 23:29:17.301 [info] [perf] Render performance baseline is 54ms
+2023-09-14 23:29:24.930 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-09-14 23:29:25.316 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-09-14 23:29:25.401 [warning] UNRESPONSIVE extension host: 'dart-code.dart-code' took 93.25021496130695% of 2.169ms, saved PROFILE here: 'file:///tmp/exthost-09347b.cpuprofile'
+2023-09-14 23:29:35.240 [error] File is not being analyzed: Error: File is not being analyzed
+	at handleResponse (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29408:48)
+	at handleMessage (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29188:13)
+	at processMessageQueue (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29205:17)
+	at Immediate.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29177:13)
+	at process.processImmediate (node:internal/timers:466:21)

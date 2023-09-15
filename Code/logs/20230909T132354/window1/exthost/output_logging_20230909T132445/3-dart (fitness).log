@@ -1,0 +1,7 @@
+[fitness] dart pub get --no-example
+Error on line 78, column 5 of pubspec.yaml: Expected a key while parsing a block mapping.
+   ╷
+78 │     - family: Chakra Petch
+   │     ^
+   ╵
+exit code 65

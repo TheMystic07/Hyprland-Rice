@@ -1,0 +1,38 @@
+2023-09-14 23:29:07.855 [info] Extension host with pid 41238 started
+2023-09-14 23:29:07.855 [info] Skipping acquiring lock for /home/mystic/.config/Code/User/workspaceStorage/726422300d1f2252df72649f2c9e025f.
+2023-09-14 23:29:08.004 [info] ExtensionService#_doActivateExtension Dart-Code.dart-code, startup: false, activationEvent: 'onLanguage:dart'
+2023-09-14 23:29:08.146 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-14 23:29:08.925 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-14 23:29:09.082 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-14 23:29:09.276 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-14 23:29:10.200 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-09-14 23:29:10.480 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-09-14 23:29:16.547 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-14 23:29:17.025 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-14 23:29:21.620 [info] Eager extensions activated
+2023-09-14 23:29:21.715 [info] ExtensionService#_doActivateExtension Dart-Code.flutter, startup: false, activationEvent: 'api', root cause: Dart-Code.dart-code
+2023-09-14 23:29:23.022 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-14 23:29:23.211 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-14 23:29:23.293 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-09-14 23:29:35.237 [error] [Dart-Code.dart-code] provider FAILED
+2023-09-14 23:29:35.238 [error] Error: File is not being analyzed
+	at handleResponse (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29408:48)
+	at handleMessage (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29188:13)
+	at processMessageQueue (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29205:17)
+	at Immediate.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29177:13)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-09-14 23:29:35.249 [error] [Dart-Code.dart-code] provider FAILED
+2023-09-14 23:29:35.249 [error] Error: File is not being analyzed
+	at handleResponse (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29408:48)
+	at handleMessage (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29188:13)
+	at processMessageQueue (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29205:17)
+	at Immediate.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29177:13)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-09-14 23:29:35.255 [error] [Dart-Code.dart-code] provider FAILED
+2023-09-14 23:29:35.256 [error] Error: File is not being analyzed
+	at handleResponse (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29408:48)
+	at handleMessage (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29188:13)
+	at processMessageQueue (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29205:17)
+	at Immediate.<anonymous> (/home/mystic/.vscode/extensions/dart-code.dart-code-3.72.2/out/dist/extension.js:29177:13)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-09-14 23:29:48.062 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'

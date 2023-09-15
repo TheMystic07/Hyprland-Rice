@@ -1,0 +1,18 @@
+2023/09/07-17:35:09.832 7a3e Reusing MANIFEST /home/mystic/.config/notion-app-enhanced/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2023/09/07-17:35:09.866 7a3e Recovering log #374
+2023/09/07-17:35:09.888 7a3e Reusing old log /home/mystic/.config/notion-app-enhanced/Partitions/notion/Local Storage/leveldb/000374.log 
+2023/09/07-17:35:51.811 7ae2 Level-0 table #378: started
+2023/09/07-17:35:52.072 7ae2 Level-0 table #378: 511030 bytes OK
+2023/09/07-17:35:52.131 7ae2 Delete type=0 #374
+2023/09/07-17:35:52.131 7a3f Compacting 4@0 + 1@1 files
+2023/09/07-17:35:52.217 7a3f Generated table #379@0: 713 keys, 593377 bytes
+2023/09/07-17:35:52.217 7a3f Compacted 4@0 + 1@1 files => 593377 bytes
+2023/09/07-17:35:52.252 7a3f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/07-17:35:52.253 7a3f Delete type=2 #375
+2023/09/07-17:35:52.253 7a3f Delete type=2 #371
+2023/09/07-17:35:52.253 7a3f Delete type=2 #373
+2023/09/07-17:35:52.253 7a3f Delete type=2 #378
+2023/09/07-17:35:52.253 7a3f Delete type=2 #369
+2023/09/07-17:37:12.046 7ae1 Level-0 table #381: started
+2023/09/07-17:37:12.124 7ae1 Level-0 table #381: 436959 bytes OK
+2023/09/07-17:37:12.180 7ae1 Delete type=0 #377

@@ -1,0 +1,25 @@
+00:00:00.702078 VirtualBox GUI VM Selector Window 7.0.8 r156879 linux.amd64 (Apr 18 2023 21:49:14) release log
+00:00:00.702097 Log opened 2023-06-17T09:52:19.562989000Z
+00:00:00.702099 Build Type: release
+00:00:00.702106 OS Product: Linux
+00:00:00.702110 OS Release: 6.3.8-arch1-1
+00:00:00.702114 OS Version: #1 SMP PREEMPT_DYNAMIC Wed, 14 Jun 2023 20:10:31 +0000
+00:00:00.702184 DMI Product Name: 81DE
+00:00:00.702215 DMI Product Version: Lenovo ideapad 330-15IKB
+00:00:00.702229 Firmware type: UEFI
+00:00:00.704442 Secure Boot: Disabled
+00:00:00.704587 Host RAM: 7728MB (7.5GB) total, 7216MB (7.0GB) available
+00:00:00.704596 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.704598 Process ID: 1452
+00:00:00.704599 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.704723 Qt version: 5.15.10
+00:00:00.709743 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.754618 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.622421 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.639896 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 386x217 x 683x384
+00:01:14.408679 GUI: UIMediumEnumerator: Medium with key={{ae74b76d-d221-442c-aa96-993fdf24a2da}} created
+00:01:14.969023 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:19.263209 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:33.544618 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:36.713013 GUI: UICommon: Handling aboutToQuit request..
+00:03:37.521824 GUI: UICommon: aboutToQuit request handled!
